@@ -1,0 +1,10 @@
+{
+    "experiment": "dqn_vs_random",
+    "timestamp": "2026-02-13T17:59:12.582713",
+    "scores": {
+        "DQN": 102,
+        "R1": 226,
+        "R2": 199,
+        "R3": 193
+    }
+}

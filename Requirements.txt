@@ -1,0 +1,6 @@
+gym
+numpy
+matplotlib
+pandas
+websockets
+torch

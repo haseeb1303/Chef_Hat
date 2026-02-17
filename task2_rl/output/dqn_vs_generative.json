@@ -1,0 +1,10 @@
+{
+    "experiment": "dqn_vs_generative",
+    "timestamp": "2026-02-13T17:51:14.608764",
+    "scores": {
+        "DQN": 142,
+        "GEN_OPP": 129,
+        "R1": 227,
+        "R2": 222
+    }
+}
